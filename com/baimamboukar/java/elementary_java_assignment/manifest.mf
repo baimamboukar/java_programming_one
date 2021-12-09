@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Baimam Boukar JJ
+Main-Class: com.baimamboukar.java.elementary_java_assignment;
